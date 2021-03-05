@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000133
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པའི་ཆོ་ག་དགེ་ལེགས་ཀྱི་ཆུ་རྒྱུན་ནོ། །
   authors:
   - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
-  sku: IBA-SG-04-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-SG-04-1
 web_metadata:
   title:
     en: A Stream of Excellent Virtue:A Ritual for Bestowing the Bodhisattva Vow
